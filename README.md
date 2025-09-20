@@ -64,8 +64,10 @@ Proyecto_Integrador_Final/
 ├── 🧩 erd/                     # Modelo entidad-relación  
 ┃  └── 📐 ER_Proyecto_Integrador.mwb  
 
-├── 🛠️ utils/                   # Scripts de utilidad  
-┃  └── ⚙️ .env  (⚠️ protegido con .gitignore)  
+├── 🛠️ utils/                   # Scripts de utilidad
+│   ├── ⚙️ .env                  # Variables de entorno (🔒 protegido con .gitignore)
+│   └── 🔗 db_connection.py      # Script para crear conexión segura a MySQL desde Python
+  
 
 ├── 📤 exportados/              # Gráficos, informes y figuras  
 ┃  🖼️ iframe_figures/  
