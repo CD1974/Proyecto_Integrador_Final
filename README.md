@@ -124,3 +124,13 @@ Proyecto_Integrador_Final/
 - 🟦 [SQLAlchemy](https://docs.sqlalchemy.org/) – Conexión y manejo de bases de datos.  
 - 🟩 [python-dotenv](https://saurabh-kumar.com/python-dotenv/) – Gestión de credenciales y variables de entorno.  
 - 🟨 [Power BI](https://learn.microsoft.com/es-es/power-bi/) – Dashboards interactivos.
+
+---
+
+### **📌 Conclusión**
+
+  Este proyecto integrador explora el mercado laboral en el ámbito de la ciencia de datos e inteligencia artificial, analizando la relación entre salario, beneficios, experiencia profesional y educación mediante un enfoque integral que combina **SQL**, **Python** y **Power BI**.
+
+  El análisis permitió identificar patrones clave en la compensación laboral, detectar las habilidades más demandadas y evaluar cómo influyen la educación, la experiencia y la modalidad de trabajo en los salarios.
+
+***✨ Un cierre de bootcamp que marca el comienzo de nuevas oportunidades en mi camino como Analista de Datos.***
