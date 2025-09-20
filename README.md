@@ -69,7 +69,7 @@ Proyecto_Integrador_Final/
 ├── 🧩 erd/                     # Modelo entidad-relación  
 ┃  └── 📐 ER_Proyecto_Integrador.mwb
 
-├── 📈 powerbi/
+├── 📈 Power BI/
     └── dashboard_final.pbix
  
 
