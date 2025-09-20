@@ -92,7 +92,7 @@ Proyecto_Integrador_Final/
 
 ## **📚 Recursos**
 
-- 📂 [Dataset original de Kaggle](https://www.kaggle.com/) – Datos sobre empleos en IA y ciencia de datos.  
+- 📂 [Dataset original de Kaggle](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025?select=ai_job_dataset1.csv) – Datos sobre empleos en IA y ciencia de datos.  
 - 💾 [Base de datos SQLite exportada](./datos.db) – Archivo de base de datos usado en el análisis.  
 - 🗂️ [Consultas SQL](./sql/) – Scripts para replicar las consultas de análisis.  
 - 📊 [Visualizaciones y figuras exportadas](./exportados/) – Gráficos y reportes generados en el proyecto.  
