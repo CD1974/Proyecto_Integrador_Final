@@ -11,10 +11,13 @@ Este trabajo marca un avance significativo respecto a proyectos anteriores, most
 🔎 **Objetivo principal**: analizar el mercado laboral en ciencia de datos e inteligencia artificial, explorando la relación entre salario, beneficios, experiencia y educación a partir de un conjunto de datos de Kaggle.  
 
 💡 **Resultados clave**:  
-- Análisis exploratorio y estadístico de los datos  
-- Dashboards interactivos en **Power BI**  
-- Modelado de bases de datos en **MySQL/SQLite**  
-- Visualizaciones avanzadas con **Python (Pandas, Seaborn, Plotly)**  
+- Análisis exploratorio y estadístico de los datos ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+  
+- Dashboards interactivos en **Power BI** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+   
+- Modelado de bases de datos en **MySQL/SQLite**  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+- Visualizaciones avanzadas con **Python (Pandas, Seaborn, Plotly)**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 🚀 *Un cierre de módulo que marca el comienzo de nuevas oportunidades en mi camino como Analista de Datos.*  
 
@@ -75,3 +78,11 @@ Proyecto_Integrador_Final/
 │  📜 README.md                 # Documentación principal  
 ```
 
+---
+
+## 🛠️ Tecnologías utilizadas  
+
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
