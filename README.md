@@ -97,7 +97,25 @@ Proyecto_Integrador_Final/
 - 📂 [Dataset original de Kaggle](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025?select=ai_job_dataset1.csv) – Datos sobre empleos en IA y ciencia de datos.  
 - 💾 [Script SQL completo](sql/mercado_ia_final.sql) – Incluye la creación de tablas, normalización, inserciones de traducciones utilizadas en el análisis.
 - 🗂️ [Consultas SQL](./sql/) – Scripts para replicar las consultas de análisis.  
-- 📊 [Visualizaciones y figuras exportadas](./exportados/) – Gráficos y reportes generados en el proyecto.  
+- 📊 [Visualizaciones y figuras exportadas](./exportados/) – Gráficos y reportes generados en el proyecto.
+- ## 📊 Visualizaciones destacadas
+
+🌍 **Distribución geográfica de salarios**  
+![Distribución geográfica](./exportados/5.12_distribucion_geografica.png)
+
+🏡 **Salario promedio por residencia**  
+![Salario residencia](./exportados/5.8_salario_promedio_residencia.png)
+
+💡 **Habilidades más demandadas**  
+![Top habilidades](./exportados/5.15_top_habilidades.png)
+
+🎓 **Relación entre educación, industria y salario**  
+![Educación e industria](./exportados/5.16_salario_educacion_industria.png)
+
+📈 **Evolución de ofertas vs salario promedio**  
+![Ofertas vs salario](./exportados/5.17_ofertas_vs_salario_promedio.png)
+
+
 
 ### **📖 Documentación de librerías y herramientas**
 - 📘 [Pandas](https://pandas.pydata.org/docs/) – Análisis de datos en Python.  
