@@ -67,7 +67,11 @@ Proyecto_Integrador_Final/
 │   └── 📄 total_ofertas_por_modalidad.sql
 
 ├── 🧩 erd/                     # Modelo entidad-relación  
-┃  └── 📐 ER_Proyecto_Integrador.mwb  
+┃  └── 📐 ER_Proyecto_Integrador.mwb
+
+├── 📈 powerbi/
+    └── dashboard_final.pbix
+ 
 
 ├── 🛠️ utils/                   # Scripts de utilidad
 │   ├── ⚙️ .env                  # Variables de entorno (🔒 protegido con .gitignore)
