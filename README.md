@@ -73,14 +73,14 @@ Proyecto_Integrador_Final/
   
 
 ├── 📤 exportados/              # Gráficos, informes y figuras  
-┃  🖼️ iframe_figures/  
-│  🖼️ logo_unicorn.png          # Logo institucional  
-│  📜 README.md                 # Documentación principal  
+┃   ├── 🖼️ iframe_figures/  
+│   └── 🖼️ logo_unicorn.png          # Logo institucional  
+
 ```
 
 ---
 
-## 🛠️ Tecnologías utilizadas  
+## **🛠️ Tecnologías utilizadas**  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -88,3 +88,19 @@ Proyecto_Integrador_Final/
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
+
+## **📚 Recursos**
+
+- 📂 [Dataset original de Kaggle](https://www.kaggle.com/) – Datos sobre empleos en IA y ciencia de datos.  
+- 💾 [Base de datos SQLite exportada](./datos.db) – Archivo de base de datos usado en el análisis.  
+- 🗂️ [Consultas SQL](./sql/) – Scripts para replicar las consultas de análisis.  
+- 📊 [Visualizaciones y figuras exportadas](./exportados/) – Gráficos y reportes generados en el proyecto.  
+
+### **📖 Documentación de librerías y herramientas**
+- 📘 [Pandas](https://pandas.pydata.org/docs/) – Análisis de datos en Python.  
+- 📗 [Seaborn](https://seaborn.pydata.org/) – Visualización estadística.  
+- 📙 [Plotly](https://plotly.com/python/) – Gráficos interactivos.  
+- 🟦 [SQLAlchemy](https://docs.sqlalchemy.org/) – Conexión y manejo de bases de datos.  
+- 🟩 [python-dotenv](https://saurabh-kumar.com/python-dotenv/) – Gestión de credenciales y variables de entorno.  
+- 🟨 [Power BI](https://learn.microsoft.com/es-es/power-bi/) – Dashboards interactivos.
