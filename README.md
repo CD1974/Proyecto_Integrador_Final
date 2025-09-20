@@ -1,7 +1,11 @@
 # ***📊 Proyecto Integrador Final***  
 
 **Bootcamp de Análisis de Datos – UNICORN ACADEMY**  
+<p align="center">
+  <img src="./exportados/logo_unicorn.png" alt="Logo Unicorn Academy" width="100"/>
+</p>
 
+--- 
 Este proyecto integrador representa la culminación del Bootcamp de Análisis de Datos, donde se aplican de forma conjunta las principales herramientas y metodologías aprendidas a lo largo de la formación.  
 
 El análisis responde preguntas clave sobre compensación y tendencias laborales, integrando **SQL** para la gestión de datos, **Python** para el análisis estadístico y visualizaciones, y **Power BI** para la construcción de dashboards interactivos que apoyan la toma de decisiones estratégicas.  
@@ -17,9 +21,7 @@ Este trabajo marca un avance significativo respecto a proyectos anteriores, most
    
 - Modelado de bases de datos en **MySQL/SQLite** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   
-- Visualizaciones avanzadas con **Python (Pandas, Seaborn, Plotly)**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-🚀 *Un cierre de módulo que marca el comienzo de nuevas oportunidades en mi camino como Analista de Datos.*  
+- Visualizaciones avanzadas con **Python (Pandas, Seaborn, Plotly)**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 
 ---
 
@@ -134,3 +136,4 @@ Proyecto_Integrador_Final/
   El análisis permitió identificar patrones clave en la compensación laboral, detectar las habilidades más demandadas y evaluar cómo influyen la educación, la experiencia y la modalidad de trabajo en los salarios.
 
 ***✨ Un cierre de bootcamp que marca el comienzo de nuevas oportunidades en mi camino como Analista de Datos.***
+***💡 “Explorando datos, revelando decisiones.”***
